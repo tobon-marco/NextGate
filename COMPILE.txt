@@ -1,0 +1,22 @@
+=================== JAVA PROGRAM IS AN ECLIPSE PROJECT ==========================
+
+1. Included is the external jar to connect to database
+
+2. arguments for program are the full paths for the files
+	Special note on the paths
+		- Include non-dependent tables first so dependent tables have access to
+			their foreign keys
+=================================================================================
+
+===================== WEB APPLICATION ========================================
+
+1. Unix OS should have a LAMP stack
+	- PHP 7.0.8
+	- MYQL VER 14.14
+	- APACHE (2.4.18)(Ubuntu)
+2. Place NextGate folder /var/www/html/
+3. Point browser to localhost/NextGate
+
+
+PS. Have access to DB with user:ng_user and password:ng
+	
